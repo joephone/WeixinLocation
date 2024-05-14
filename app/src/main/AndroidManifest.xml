@@ -39,10 +39,10 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-
+        <!--56fe6363197378f65700bfec1ac8774b -->
         <meta-data
             android:name="com.amap.api.v2.apikey"
-            android:value="56fe6363197378f65700bfec1ac8774b"/>
+            android:value="80f8ca40c19070d7391f8a2d726bcf43"/>
 
         <!-- 高德地图定位 -->
         <service android:name="com.amap.api.location.APSService"/>
